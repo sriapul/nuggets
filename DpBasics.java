@@ -16,6 +16,28 @@ Types:
 2. min or max out of possiblity - Coin change
 3. Whether you will able to acheiv one valid answer
 
+Use:
+
+1. DFS or Combinarics and get exponential solution for all possibilities
+All possible solution - all subsets, all possible splits, all possible paths
+
+Combination Basic:
+
+Select or Do not Select:
+
+If you have multiple option use for loop to calculate else Make recursive call one after another
+
+Add and Remove a element in combinatric
+
+For looooop
+Add element
+Recursive Call
+Remove element
+
+
+
+
+
 **/
 
 
